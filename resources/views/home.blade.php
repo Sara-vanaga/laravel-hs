@@ -15,5 +15,6 @@
             <a href="{{ route('register') }}" class="btn btn-secondary">ثبت‌نام</a>
         </div>
     </div>
+    <script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>
